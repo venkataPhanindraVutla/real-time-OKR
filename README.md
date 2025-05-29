@@ -124,17 +124,9 @@ The database schema consists of the following tables:
 
 6.  Open your browser and navigate to `http://localhost:[port]`.
 
-## Contributing
+## Live deployment
 
-[Explain how others can contribute to the project]
-
-## License
-
-[Specify the license under which the project is released]
-
-## Additional Features (Future Enhancements)
-
--   [List any additional features or enhancements that are planned for the future]
+- https://real-time-okr.vercel.app/auth
 
 ## Reference
 
