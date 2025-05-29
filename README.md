@@ -126,7 +126,7 @@ The database schema consists of the following tables:
 
 ## Live deployment
 
-- https://real-time-okr.vercel.app/auth
+- https://real-time-okr.vercel.app
 
 ## Reference
 
